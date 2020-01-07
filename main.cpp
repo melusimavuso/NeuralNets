@@ -4,15 +4,10 @@ using namespace std;
 
 int main(){
 
-	// NeuronTesting();
-	// LayerTesting();
-	 //ANNTesting();
-	// ModelTesting();
-	// ForecastingTesting();
-	// HedgingTesting();
-	 // slnnTesting();
-	PDETesting();
-
+	NeuronTesting();
+	LayerTesting();
+	 ANNTesting();
+	 slnnTesting();
 
 
 	return 0;
